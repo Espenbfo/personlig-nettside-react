@@ -5,7 +5,7 @@ import IndexPage from "./pages/IndexPage"
 
 function App() {
   return (
-      (<Router>
+      (<Router basename={process.env.PUBLIC_URL}>
         <Switch>
           <Route exact path={"/"}>
             <IndexPage></IndexPage>
