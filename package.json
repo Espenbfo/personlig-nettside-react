@@ -1,5 +1,6 @@
 {
-  "name": "http://espenbfo.github.io/react",
+  "name": "http://fosseide.com/personlig-nettside-react",
+  "homepage": "http://fosseide.com/personlig-nettside-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
