@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personlig-nettside-react/static/css/main.a28662bc.chunk.css",
+    "main.js": "/personlig-nettside-react/static/js/main.7c2753ec.chunk.js",
+    "main.js.map": "/personlig-nettside-react/static/js/main.7c2753ec.chunk.js.map",
+    "runtime-main.js": "/personlig-nettside-react/static/js/runtime-main.a373cdc2.js",
+    "runtime-main.js.map": "/personlig-nettside-react/static/js/runtime-main.a373cdc2.js.map",
+    "static/js/2.0c2af602.chunk.js": "/personlig-nettside-react/static/js/2.0c2af602.chunk.js",
+    "static/js/2.0c2af602.chunk.js.map": "/personlig-nettside-react/static/js/2.0c2af602.chunk.js.map",
+    "static/js/3.76bbff34.chunk.js": "/personlig-nettside-react/static/js/3.76bbff34.chunk.js",
+    "static/js/3.76bbff34.chunk.js.map": "/personlig-nettside-react/static/js/3.76bbff34.chunk.js.map",
+    "index.html": "/personlig-nettside-react/index.html",
+    "static/css/main.a28662bc.chunk.css.map": "/personlig-nettside-react/static/css/main.a28662bc.chunk.css.map",
+    "static/js/2.0c2af602.chunk.js.LICENSE.txt": "/personlig-nettside-react/static/js/2.0c2af602.chunk.js.LICENSE.txt",
+    "static/media/espen.jpg": "/personlig-nettside-react/static/media/espen.e718db1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a373cdc2.js",
+    "static/js/2.0c2af602.chunk.js",
+    "static/css/main.a28662bc.chunk.css",
+    "static/js/main.7c2753ec.chunk.js"
+  ]
+}
